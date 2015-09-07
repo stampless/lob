@@ -13,17 +13,12 @@ You will need to register for an Instagram Developer Account and a Lob API Key
 npm i
 ```
 
-## Run the App
+## Run
 ```
 node app.js
 ```
 
-## app.js
-Here we define the basic server setup, and include our `instagram` component.
-
-
-## instagram/index.js
-Here we declare the routes and business logic for the functionality of our Instagram App
+Visit `localhost:3000` in your browser
 
 
 ## instagram/config.js
