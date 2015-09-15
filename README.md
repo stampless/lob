@@ -15,7 +15,7 @@ npm i
 
 ## Run
 ```
-node app.js
+node index.js
 ```
 
 Visit `localhost:3000` in your browser
