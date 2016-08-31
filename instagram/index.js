@@ -1,3 +1,12 @@
+npm i express --save  
+npm i bluebird --save  
+npm i body-parser --save  
+npm i cookie-parser --save  
+npm i instagram-node --save  
+npm i jade --save  
+npm i lob --save
+
+
 var router        = require('express').Router();
 var cookieParser  = require('cookie-parser');
 var instagramApi  = require('instagram-node').instagram();
